@@ -1,0 +1,42 @@
+═══════════════════════════════════════════════════════════════
+  COMANDOS PARA SUBIR A GITHUB
+═══════════════════════════════════════════════════════════════
+
+1. PRIMERO: Crea el repositorio en GitHub.com
+   - Ve a github.com → Click en "+" → "New repository"
+   - Nombre: bajio-dashboard (o el que prefieras)
+   - Selecciona "Public"
+   - NO marques "Initialize with README"
+   - Click "Create repository"
+
+2. LUEGO: Ejecuta estos comandos (reemplaza TU_USUARIO y TU_REPOSITORIO):
+
+   git branch -M main
+   git remote add origin https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+   git push -u origin main
+
+3. FINALMENTE: Activa GitHub Pages
+   - Ve a tu repositorio en GitHub
+   - Settings → Pages
+   - Source: "Deploy from a branch"
+   - Branch: "main", Folder: "/ (root)"
+   - Save
+
+4. Tu dashboard estará en:
+   https://TU_USUARIO.github.io/TU_REPOSITORIO/
+
+═══════════════════════════════════════════════════════════════
+  EJEMPLO COMPLETO
+═══════════════════════════════════════════════════════════════
+
+Si tu usuario es "juanperez" y el repo es "bajio-dashboard":
+
+   git branch -M main
+   git remote add origin https://github.com/juanperez/bajio-dashboard.git
+   git push -u origin main
+
+Y tu dashboard estará en:
+   https://juanperez.github.io/bajio-dashboard/
+
+═══════════════════════════════════════════════════════════════
+
