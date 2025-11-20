@@ -7,7 +7,7 @@
     <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
     <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
     <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
-    <script src="https://unpkg.com/recharts@2.10.3/dist/Recharts.umd.js"></script>
+    <script src="https://unpkg.com/recharts@2.10.3/dist/Recharts.umd.js" onload="window.rechartsLoaded = true"></script>
     <style>
         * {
             margin: 0;
@@ -434,16 +434,7 @@
 
     <script type="text/babel">
         const { useState } = React;
-        
-        // Esperar a que Recharts se cargue
-        const RechartsLib = window.Recharts || Recharts;
-        
-        if (!RechartsLib) {
-            document.getElementById('root').innerHTML = '<div style="padding: 2rem; color: white; text-align: center; background: rgba(0,0,0,0.8); border-radius: 12px; margin: 2rem;"><h1>⏳ Cargando Dashboard...</h1><p>Por favor espera unos segundos</p></div>';
-            setTimeout(() => location.reload(), 2000);
-        }
-        
-        const { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, PieChart, Pie, Cell } = RechartsLib;
+        const { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, PieChart, Pie, Cell } = Recharts;
 
         // Cargar datos desde el archivo JSON (en producción, esto se haría con fetch)
         // Por ahora, incluimos los datos directamente
