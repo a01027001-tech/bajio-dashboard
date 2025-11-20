@@ -1,0 +1,1560 @@
+{
+  "Aguascalientes": {
+    "total_2024": 3720,
+    "total_2025": 3550,
+    "total_2026": 3180,
+    "variacion_pct": -10.4,
+    "unidad": "miles_toneladas",
+    "actividades": [
+      {
+        "rank": 1,
+        "nombre": "Electrónica Automotriz",
+        "demanda_2024": 1950,
+        "demanda_2025": 1850,
+        "demanda_2026": 1480,
+        "crecimiento_pct": -20.0,
+        "export_internacional_pct": 92,
+        "export_local_pct": 8,
+        "impacto_camiones": "Alta demanda de transporte especializado refrigerado para componentes sensibles",
+        "detalle_export": {
+          "internacional": {
+            "total_pct": 92,
+            "destinos": [
+              {
+                "destino": "Estados Unidos",
+                "pct": 85,
+                "detalle": "OEMs Michigan, Ohio, Texas (GM, Ford, FCA components)"
+              },
+              {
+                "destino": "Canadá",
+                "pct": 7,
+                "detalle": "Plants Ontario, Quebec (cableado, ECUs)"
+              }
+            ]
+          },
+          "local_regional": {
+            "total_pct": 8,
+            "destinos": [
+              {
+                "destino": "Nissan AGS local",
+                "pct": 5,
+                "detalle": "A1, A2 plants (hasta mayo 2026 COMPAS)"
+              },
+              {
+                "destino": "Proveedores Tier 1 Bajío",
+                "pct": 3,
+                "detalle": "Distribución GTO, QRO, SLP"
+              }
+            ]
+          }
+        },
+        "empresas": [
+          "Nissan Mexicana (COMPAS crítico)",
+          "Nippon Seiki",
+          "Yazaki",
+          "Panasonic Automotive",
+          "TE Connectivity",
+          "Flex"
+        ]
+      },
+      {
+        "rank": 2,
+        "nombre": "Metálica Básica (Automotriz 70% vs Compuestos 30%)",
+        "demanda_2024": 720,
+        "demanda_2025": 680,
+        "demanda_2026": 560,
+        "crecimiento_pct": -17.6,
+        "export_internacional_pct": 75,
+        "export_local_pct": 25,
+        "impacto_camiones": "Transporte de carga pesada, estampados y estructuras metálicas",
+        "detalle_export": {
+          "internacional": {
+            "total_pct": 75,
+            "destinos": [
+              {
+                "destino": "Estados Unidos OEMs",
+                "pct": 60,
+                "detalle": "Estampados carrocería, componentes suspensión export directo"
+              },
+              {
+                "destino": "Canadá",
+                "pct": 10,
+                "detalle": "Piezas forjadas, herrajes industriales"
+              },
+              {
+                "destino": "Otros TMEC",
+                "pct": 5,
+                "detalle": "Componentes metálicos especialidad"
+              }
+            ]
+          },
+          "local_regional": {
+            "total_pct": 25,
+            "destinos": [
+              {
+                "destino": "Nissan AGS (automotriz)",
+                "pct": 12,
+                "detalle": "Estampados, estructurales Sentra/Versa/Kicks"
+              },
+              {
+                "destino": "Construcción Bajío",
+                "pct": 8,
+                "detalle": "Herrajes, perfiles estructurales regional"
+              },
+              {
+                "destino": "Maquinaria agrícola",
+                "pct": 3,
+                "detalle": "Componentes pequeños tractores, implementos"
+              },
+              {
+                "destino": "OEMs Bajío otros",
+                "pct": 2,
+                "detalle": "GM GTO, BMW SLP supply"
+              }
+            ]
+          }
+        },
+        "empresas": [
+          "Metalsa",
+          "Grupo Simsa",
+          "Teksid",
+          "American Axle",
+          "Gestamp"
+        ]
+      },
+      {
+        "rank": 3,
+        "nombre": "Maquinaria (Pesada 40% vs Ligera 60%)",
+        "demanda_2024": 450,
+        "demanda_2025": 420,
+        "demanda_2026": 380,
+        "crecimiento_pct": -9.5,
+        "export_internacional_pct": 45,
+        "export_local_pct": 55,
+        "impacto_camiones": "Transporte de maquinaria pesada requiere plataformas y grúas",
+        "detalle_export": {
+          "internacional": {
+            "total_pct": 45,
+            "destinos": [
+              {
+                "destino": "Estados Unidos",
+                "pct": 35,
+                "detalle": "Equipos construcción, herramientas agrícolas"
+              },
+              {
+                "destino": "Canadá",
+                "pct": 8,
+                "detalle": "Maquinaria pesada, grúas"
+              },
+              {
+                "destino": "América Latina",
+                "pct": 2,
+                "detalle": "Equipos agrícolas export"
+              }
+            ]
+          },
+          "local_regional": {
+            "total_pct": 55,
+            "destinos": [
+              {
+                "destino": "Construcción Bajío",
+                "pct": 30,
+                "detalle": "Obras infraestructura, vivienda regional"
+              },
+              {
+                "destino": "Minería regional",
+                "pct": 15,
+                "detalle": "Equipos minería Zacatecas, SLP"
+              },
+              {
+                "destino": "Agricultura local",
+                "pct": 7,
+                "detalle": "Tractores, implementos Bajío"
+              },
+              {
+                "destino": "Manufactura AGS",
+                "pct": 3,
+                "detalle": "Herramientas, equipos industriales"
+              }
+            ]
+          }
+        },
+        "empresas": [
+          "Proveedores maquinaria industrial",
+          "Fabricantes herramientas",
+          "Importadores equipos construcción"
+        ]
+      },
+      {
+        "rank": 4,
+        "nombre": "Alimentos Refrigerados",
+        "demanda_2024": 360,
+        "demanda_2025": 380,
+        "demanda_2026": 400,
+        "crecimiento_pct": 5.3,
+        "export_internacional_pct": 30,
+        "export_local_pct": 70,
+        "impacto_camiones": "Alta demanda de camiones refrigerados para cadena de frío",
+        "detalle_export": {
+          "internacional": {
+            "total_pct": 30,
+            "destinos": [
+              {
+                "destino": "Estados Unidos frontera",
+                "pct": 25,
+                "detalle": "Cárnicos procesados Texas, NM (Laredo)"
+              },
+              {
+                "destino": "Otros US",
+                "pct": 3,
+                "detalle": "Lácteos especialidad, quesos"
+              },
+              {
+                "destino": "Export otros",
+                "pct": 2,
+                "detalle": "Alimentos preparados refrigerados"
+              }
+            ]
+          },
+          "local_regional": {
+            "total_pct": 70,
+            "destinos": [
+              {
+                "destino": "Bajío regional",
+                "pct": 45,
+                "detalle": "Distribución GTO, QRO, SLP, Jalisco"
+              },
+              {
+                "destino": "Ciudad de México",
+                "pct": 15,
+                "detalle": "Mercados centrales CDMX"
+              },
+              {
+                "destino": "Norte México",
+                "pct": 7,
+                "detalle": "Monterrey, Saltillo, Torreón"
+              },
+              {
+                "destino": "AGS local",
+                "pct": 3,
+                "detalle": "Consumo local Aguascalientes"
+              }
+            ]
+          }
+        },
+        "empresas": [
+          "Sukarne",
+          "Grupo Lala",
+          "Sigma Alimentos",
+          "Lactalis"
+        ]
+      },
+      {
+        "rank": 5,
+        "nombre": "Madera en Bruto",
+        "demanda_2024": 210,
+        "demanda_2025": 220,
+        "demanda_2026": 230,
+        "crecimiento_pct": 4.5,
+        "export_internacional_pct": 35,
+        "export_local_pct": 65,
+        "impacto_camiones": "Transporte de carga voluminosa, tarimas y madera aserrada",
+        "detalle_export": {
+          "internacional": {
+            "total_pct": 35,
+            "destinos": [
+              {
+                "destino": "Estados Unidos",
+                "pct": 25,
+                "detalle": "Tarimas industriales (80% del export), madera aserrada construcción"
+              },
+              {
+                "destino": "Canadá",
+                "pct": 8,
+                "detalle": "Madera construcción especialidad"
+              },
+              {
+                "destino": "Otros",
+                "pct": 2,
+                "detalle": "Exportación menor"
+              }
+            ]
+          },
+          "local_regional": {
+            "total_pct": 65,
+            "destinos": [
+              {
+                "destino": "Construcción residencial Bajío",
+                "pct": 35,
+                "detalle": "Vivienda AGS, GTO, QRO"
+              },
+              {
+                "destino": "Muebles/carpintería regional",
+                "pct": 18,
+                "detalle": "Fabricantes muebles Bajío"
+              },
+              {
+                "destino": "Tarimas logística local",
+                "pct": 9,
+                "detalle": "Manufactura automotriz, almacenes"
+              },
+              {
+                "destino": "Construcción comercial",
+                "pct": 3,
+                "detalle": "Naves industriales, retail"
+              }
+            ]
+          }
+        },
+        "empresas": [
+          "Aserraderos regionales",
+          "Madereras AGS"
+        ]
+      }
+    ]
+  },
+  "Guanajuato": {
+    "total_2024": 4700,
+    "total_2025": 4950,
+    "total_2026": 5210,
+    "variacion_pct": 5.3,
+    "unidad": "miles_toneladas",
+    "actividades": [
+      {
+        "rank": 1,
+        "nombre": "Químico (Pinturas, Adhesivos, Recubrimientos)",
+        "demanda_2024": 920,
+        "demanda_2025": 950,
+        "demanda_2026": 980,
+        "crecimiento_pct": 3.2,
+        "export_internacional_pct": 55,
+        "export_local_pct": 45,
+        "impacto_camiones": "Transporte de materiales peligrosos requiere certificaciones especiales",
+        "detalle_export": {
+          "internacional": {
+            "total_pct": 55,
+            "destinos": [
+              {
+                "destino": "Estados Unidos",
+                "pct": 45,
+                "detalle": "Recubrimientos industriales, químicos especialidad, pinturas automotrices"
+              },
+              {
+                "destino": "Canadá",
+                "pct": 7,
+                "detalle": "Adhesivos industriales, selladores"
+              },
+              {
+                "destino": "América Latina",
+                "pct": 3,
+                "detalle": "Químicos básicos, solventes"
+              }
+            ]
+          },
+          "local_regional": {
+            "total_pct": 45,
+            "destinos": [
+              {
+                "destino": "Automotriz GTO local",
+                "pct": 25,
+                "detalle": "Pinturas OEMs (GM Silao 12%, Mazda 7%, Toyota 4%, Honda 2%), adhesivos ensamble"
+              },
+              {
+                "destino": "Construcción Bajío",
+                "pct": 12,
+                "detalle": "Pinturas arquitectónicas, selladores impermeabilizantes regional"
+              },
+              {
+                "destino": "Agroindustria local",
+                "pct": 5,
+                "detalle": "Agroquímicos formulación, químicos empaques alimentos"
+              },
+              {
+                "destino": "Manufactura general Bajío",
+                "pct": 3,
+                "detalle": "Solventes industriales, químicos limpieza, recubrimientos"
+              }
+            ]
+          }
+        },
+        "empresas": [
+          "PPG",
+          "AkzoNobel",
+          "BASF México",
+          "Comex (PPG)",
+          "Henkel"
+        ]
+      },
+      {
+        "rank": 2,
+        "nombre": "Fertilizantes",
+        "demanda_2024": 640,
+        "demanda_2025": 680,
+        "demanda_2026": 720,
+        "crecimiento_pct": 5.9,
+        "export_internacional_pct": 25,
+        "export_local_pct": 75,
+        "impacto_camiones": "Alta demanda estacional, transporte a granel en tolvas",
+        "detalle_export": {
+          "internacional": {
+            "total_pct": 25,
+            "destinos": [
+              {
+                "destino": "Estados Unidos",
+                "pct": 15,
+                "detalle": "Fertilizantes orgánicos especialidad, mezclas NPK premium"
+              },
+              {
+                "destino": "América Latina",
+                "pct": 8,
+                "detalle": "Fertilizantes nitrogenados Guatemala, Honduras"
+              },
+              {
+                "destino": "Otros",
+                "pct": 2,
+                "detalle": "Export menor"
+              }
+            ]
+          },
+          "local_regional": {
+            "total_pct": 75,
+            "destinos": [
+              {
+                "destino": "Agricultura Guanajuato",
+                "pct": 40,
+                "detalle": "Maíz (25%), sorgo (8%), trigo (5%), hortalizas (2%) - aplicación directa productores GTO"
+              },
+              {
+                "destino": "Agricultura estados vecinos",
+                "pct": 25,
+                "detalle": "Querétaro (10%), Michoacán (8%), Jalisco (5%), San Luis Potosí (2%)"
+              },
+              {
+                "destino": "Horticultura intensiva",
+                "pct": 10,
+                "detalle": "Invernaderos Bajío (brócoli, coliflor, lechuga), fertirriego tecnificado"
+              }
+            ]
+          }
+        },
+        "empresas": [
+          "Grupo Castores",
+          "Tresguerras (Yara México)",
+          "Fertirey",
+          "Nutrien México"
+        ]
+      },
+      {
+        "rank": 3,
+        "nombre": "Metales Básicos (Acero, Aluminio, Fundición)",
+        "demanda_2024": 1100,
+        "demanda_2025": 1150,
+        "demanda_2026": 1200,
+        "crecimiento_pct": 4.3,
+        "export_internacional_pct": 60,
+        "export_local_pct": 40,
+        "impacto_camiones": "Carga pesada, requiere camiones de alto tonelaje",
+        "detalle_export": {
+          "internacional": {
+            "total_pct": 60,
+            "destinos": [
+              {
+                "destino": "Estados Unidos Tier 1",
+                "pct": 50,
+                "detalle": "Componentes automotrices Michigan/Ohio (estampados, fundición), perfiles construcción"
+              },
+              {
+                "destino": "Canadá",
+                "pct": 10,
+                "detalle": "Acero laminado, aluminio extruido OEMs Ontario"
+              }
+            ]
+          },
+          "local_regional": {
+            "total_pct": 40,
+            "destinos": [
+              {
+                "destino": "Automotriz GTO",
+                "pct": 25,
+                "detalle": "GM Silao (12% estampados chasis, estructuras), Mazda (7%), Honda (4%), Toyota (2%)"
+              },
+              {
+                "destino": "Automotriz Bajío",
+                "pct": 10,
+                "detalle": "AGS Nissan (4%), SLP BMW (4%), QRO Scania (2%)"
+              },
+              {
+                "destino": "Construcción regional",
+                "pct": 3,
+                "detalle": "Varilla, perfiles estructurales obras Bajío"
+              },
+              {
+                "destino": "Maquinaria agrícola",
+                "pct": 2,
+                "detalle": "Implementos, tractores, componentes forjados"
+              }
+            ]
+          }
+        },
+        "empresas": [
+          "Ternium",
+          "ArcelorMittal",
+          "Deacero",
+          "Nemak"
+        ]
+      },
+      {
+        "rank": 4,
+        "nombre": "Agroindustrias (Lácteos, Carnes, Refrigerados)",
+        "demanda_2024": 1250,
+        "demanda_2025": 1320,
+        "demanda_2026": 1420,
+        "crecimiento_pct": 7.6,
+        "export_internacional_pct": 35,
+        "export_local_pct": 65,
+        "impacto_camiones": "Cadena de frío crítica, camiones refrigerados especializados",
+        "detalle_export": {
+          "internacional": {
+            "total_pct": 35,
+            "destinos": [
+              {
+                "destino": "Estados Unidos",
+                "pct": 30,
+                "detalle": "Quesos premium (15%), carne res cortes finos (10%), cárnicos procesados (5%)"
+              },
+              {
+                "destino": "Japón",
+                "pct": 3,
+                "detalle": "Carne res calidad export certificada"
+              },
+              {
+                "destino": "Otros",
+                "pct": 2,
+                "detalle": "Asia, Europa menor"
+              }
+            ]
+          },
+          "local_regional": {
+            "total_pct": 65,
+            "destinos": [
+              {
+                "destino": "Bajío regional",
+                "pct": 40,
+                "detalle": "GTO (15%), QRO (10%), AGS (8%), SLP (5%), Jalisco (2%)"
+              },
+              {
+                "destino": "Ciudad de México",
+                "pct": 15,
+                "detalle": "Mercados CDMX, zona metropolitana"
+              },
+              {
+                "destino": "Norte México",
+                "pct": 7,
+                "detalle": "Monterrey, Saltillo, Torreón distribución"
+              },
+              {
+                "destino": "Otros estados",
+                "pct": 3,
+                "detalle": "Centro, sur México"
+              }
+            ]
+          }
+        },
+        "empresas": [
+          "Grupo Lala",
+          "Sigma Alimentos",
+          "Pilgrim's Pride",
+          "Sukarne",
+          "San Marcos"
+        ]
+      },
+      {
+        "rank": 5,
+        "nombre": "Maquinaria Industrial y Agrícola",
+        "demanda_2024": 790,
+        "demanda_2025": 850,
+        "demanda_2026": 890,
+        "crecimiento_pct": 4.7,
+        "export_internacional_pct": 50,
+        "export_local_pct": 50,
+        "impacto_camiones": "Transporte especializado, plataformas y grúas para maquinaria pesada",
+        "detalle_export": {
+          "internacional": {
+            "total_pct": 50,
+            "destinos": [
+              {
+                "destino": "Estados Unidos",
+                "pct": 40,
+                "detalle": "Maquinaria agrícola (20%), herramientas industriales (15%), equipos manufactura (5%)"
+              },
+              {
+                "destino": "Canadá",
+                "pct": 7,
+                "detalle": "Bombas industriales, compresores"
+              },
+              {
+                "destino": "América Latina",
+                "pct": 3,
+                "detalle": "Equipos agrícolas Guatemala, Colombia"
+              }
+            ]
+          },
+          "local_regional": {
+            "total_pct": 50,
+            "destinos": [
+              {
+                "destino": "Automotriz GTO",
+                "pct": 20,
+                "detalle": "Maquinaria tooling OEMs (10%), robots/prensas (7%), equipos ensamble (3%)"
+              },
+              {
+                "destino": "Agroindustria Bajío",
+                "pct": 15,
+                "detalle": "Equipos procesamiento lácteos/carnes (8%), tractores/cosechadoras (5%), bombas riego (2%)"
+              },
+              {
+                "destino": "Manufactura general",
+                "pct": 10,
+                "detalle": "Compresores (5%), bombas industriales (3%), herramientas (2%)"
+              },
+              {
+                "destino": "Construcción",
+                "pct": 5,
+                "detalle": "Equipos ligeros construcción, mezcladoras"
+              }
+            ]
+          }
+        },
+        "empresas": [
+          "John Deere",
+          "Bosch Rexroth",
+          "Festo",
+          "Tier 2-3 diversos"
+        ]
+      }
+    ]
+  },
+  "Zacatecas": {
+    "total_2024": 2850,
+    "total_2025": 3020,
+    "total_2026": 3180,
+    "variacion_pct": 5.3,
+    "unidad": "miles_toneladas",
+    "actividades": [
+      {
+        "rank": 1,
+        "nombre": "Minería (Plata, Zinc, Plomo, Cobre)",
+        "demanda_2024": 1850,
+        "demanda_2025": 1950,
+        "demanda_2026": 2050,
+        "crecimiento_pct": 5.1,
+        "export_internacional_pct": 85,
+        "export_local_pct": 15,
+        "impacto_camiones": "Transporte de minerales a granel, requiere camiones de alto tonelaje y tolvas",
+        "detalle_export": {
+          "internacional": {
+            "total_pct": 85,
+            "destinos": [
+              {
+                "destino": "Estados Unidos",
+                "pct": 45,
+                "detalle": "Concentrados plata, zinc, plomo a refinerías Texas, Arizona"
+              },
+              {
+                "destino": "Canadá",
+                "pct": 25,
+                "detalle": "Minerales a plantas procesamiento Ontario, Quebec"
+              },
+              {
+                "destino": "China",
+                "pct": 10,
+                "detalle": "Concentrados plata, zinc export directo"
+              },
+              {
+                "destino": "Europa",
+                "pct": 5,
+                "detalle": "Minerales especialidad export"
+              }
+            ]
+          },
+          "local_regional": {
+            "total_pct": 15,
+            "destinos": [
+              {
+                "destino": "Fundiciones México",
+                "pct": 8,
+                "detalle": "Concentrados a fundiciones Coahuila, Nuevo León"
+              },
+              {
+                "destino": "Puertos exportación",
+                "pct": 5,
+                "detalle": "Transporte a Manzanillo, Lázaro Cárdenas para export"
+              },
+              {
+                "destino": "Procesamiento local",
+                "pct": 2,
+                "detalle": "Plantas procesamiento Zacatecas"
+              }
+            ]
+          }
+        },
+        "empresas": [
+          "Fresnillo plc",
+          "Peñoles (Industrias Peñoles)",
+          "Newmont Corporation",
+          "First Majestic Silver",
+          "Grupo México"
+        ]
+      },
+      {
+        "rank": 2,
+        "nombre": "Agricultura (Frijol, Chile, Maíz, Avena)",
+        "demanda_2024": 520,
+        "demanda_2025": 550,
+        "demanda_2026": 580,
+        "crecimiento_pct": 5.5,
+        "export_internacional_pct": 40,
+        "export_local_pct": 60,
+        "impacto_camiones": "Transporte estacional, camiones para granos y productos agrícolas",
+        "detalle_export": {
+          "internacional": {
+            "total_pct": 40,
+            "destinos": [
+              {
+                "destino": "Estados Unidos",
+                "pct": 30,
+                "detalle": "Frijol (15%), chile seco (10%), productos agrícolas (5%)"
+              },
+              {
+                "destino": "Canadá",
+                "pct": 7,
+                "detalle": "Frijol, chile especialidad"
+              },
+              {
+                "destino": "Otros",
+                "pct": 3,
+                "detalle": "Export menor"
+              }
+            ]
+          },
+          "local_regional": {
+            "total_pct": 60,
+            "destinos": [
+              {
+                "destino": "Bajío regional",
+                "pct": 35,
+                "detalle": "Distribución GTO, AGS, SLP, QRO"
+              },
+              {
+                "destino": "Ciudad de México",
+                "pct": 15,
+                "detalle": "Mercados centrales CDMX"
+              },
+              {
+                "destino": "Norte México",
+                "pct": 7,
+                "detalle": "Monterrey, Saltillo distribución"
+              },
+              {
+                "destino": "ZAC local",
+                "pct": 3,
+                "detalle": "Consumo local Zacatecas"
+              }
+            ]
+          }
+        },
+        "empresas": [
+          "Productores agrícolas regionales",
+          "Cooperativas agrícolas",
+          "Empacadoras agrícolas"
+        ]
+      },
+      {
+        "rank": 3,
+        "nombre": "Ganadería y Productos Cárnicos",
+        "demanda_2024": 280,
+        "demanda_2025": 300,
+        "demanda_2026": 320,
+        "crecimiento_pct": 6.7,
+        "export_internacional_pct": 25,
+        "export_local_pct": 75,
+        "impacto_camiones": "Camiones refrigerados para transporte de ganado y productos cárnicos",
+        "detalle_export": {
+          "internacional": {
+            "total_pct": 25,
+            "destinos": [
+              {
+                "destino": "Estados Unidos",
+                "pct": 20,
+                "detalle": "Ganado en pie, carne procesada Texas, NM"
+              },
+              {
+                "destino": "Otros",
+                "pct": 5,
+                "detalle": "Export menor"
+              }
+            ]
+          },
+          "local_regional": {
+            "total_pct": 75,
+            "destinos": [
+              {
+                "destino": "Bajío regional",
+                "pct": 45,
+                "detalle": "Distribución GTO, AGS, SLP, QRO"
+              },
+              {
+                "destino": "Ciudad de México",
+                "pct": 20,
+                "detalle": "Mercados centrales CDMX"
+              },
+              {
+                "destino": "Norte México",
+                "pct": 8,
+                "detalle": "Monterrey, Saltillo"
+              },
+              {
+                "destino": "ZAC local",
+                "pct": 2,
+                "detalle": "Consumo local Zacatecas"
+              }
+            ]
+          }
+        },
+        "empresas": [
+          "Productores ganaderos regionales",
+          "Empacadoras de carne",
+          "Distribuidores cárnicos"
+        ]
+      },
+      {
+        "rank": 4,
+        "nombre": "Equipos y Maquinaria Minera",
+        "demanda_2024": 150,
+        "demanda_2025": 160,
+        "demanda_2026": 170,
+        "crecimiento_pct": 6.3,
+        "export_internacional_pct": 20,
+        "export_local_pct": 80,
+        "impacto_camiones": "Transporte de maquinaria pesada minera, plataformas especializadas",
+        "detalle_export": {
+          "internacional": {
+            "total_pct": 20,
+            "destinos": [
+              {
+                "destino": "Estados Unidos",
+                "pct": 15,
+                "detalle": "Repuestos maquinaria minera"
+              },
+              {
+                "destino": "Canadá",
+                "pct": 5,
+                "detalle": "Equipos mineros especialidad"
+              }
+            ]
+          },
+          "local_regional": {
+            "total_pct": 80,
+            "destinos": [
+              {
+                "destino": "Minería Zacatecas",
+                "pct": 60,
+                "detalle": "Equipos, repuestos minas locales"
+              },
+              {
+                "destino": "Minería estados vecinos",
+                "pct": 15,
+                "detalle": "SLP, Durango, Chihuahua"
+              },
+              {
+                "destino": "Mantenimiento minero",
+                "pct": 5,
+                "detalle": "Talleres especializados regional"
+              }
+            ]
+          }
+        },
+        "empresas": [
+          "Proveedores equipos mineros",
+          "Caterpillar",
+          "Komatsu",
+          "Distribuidores maquinaria pesada"
+        ]
+      },
+      {
+        "rank": 5,
+        "nombre": "Materiales de Construcción",
+        "demanda_2024": 50,
+        "demanda_2025": 60,
+        "demanda_2026": 60,
+        "crecimiento_pct": 0.0,
+        "export_internacional_pct": 5,
+        "export_local_pct": 95,
+        "impacto_camiones": "Transporte de materiales pesados, cemento, grava, arena",
+        "detalle_export": {
+          "internacional": {
+            "total_pct": 5,
+            "destinos": [
+              {
+                "destino": "Estados Unidos",
+                "pct": 5,
+                "detalle": "Materiales construcción especialidad"
+              }
+            ]
+          },
+          "local_regional": {
+            "total_pct": 95,
+            "destinos": [
+              {
+                "destino": "Construcción Zacatecas",
+                "pct": 70,
+                "detalle": "Obras infraestructura, vivienda local"
+              },
+              {
+                "destino": "Construcción regional",
+                "pct": 20,
+                "detalle": "Obras Bajío, norte México"
+              },
+              {
+                "destino": "Minería construcción",
+                "pct": 5,
+                "detalle": "Infraestructura minera"
+              }
+            ]
+          }
+        },
+        "empresas": [
+          "Cemex",
+          "Cruz Azul",
+          "Distribuidores materiales construcción"
+        ]
+      }
+    ]
+  },
+  "San Luis Potosí": {
+    "total_2024": 3420,
+    "total_2025": 3650,
+    "total_2026": 3880,
+    "variacion_pct": 6.3,
+    "unidad": "miles_toneladas",
+    "actividades": [
+      {
+        "rank": 1,
+        "nombre": "Automotriz (BMW, GM, Proveedores)",
+        "demanda_2024": 1850,
+        "demanda_2025": 1980,
+        "demanda_2026": 2120,
+        "crecimiento_pct": 7.0,
+        "export_internacional_pct": 75,
+        "export_local_pct": 25,
+        "impacto_camiones": "Alta demanda transporte just-in-time, componentes y vehículos terminados",
+        "detalle_export": {
+          "internacional": {
+            "total_pct": 75,
+            "destinos": [
+              {
+                "destino": "Estados Unidos",
+                "pct": 60,
+                "detalle": "BMW X3, GM Equinox export directo, componentes Tier 1"
+              },
+              {
+                "destino": "Canadá",
+                "pct": 10,
+                "detalle": "Vehículos terminados, autopartes Ontario"
+              },
+              {
+                "destino": "Europa",
+                "pct": 5,
+                "detalle": "BMW export Europa, componentes especialidad"
+              }
+            ]
+          },
+          "local_regional": {
+            "total_pct": 25,
+            "destinos": [
+              {
+                "destino": "BMW SLP local",
+                "pct": 12,
+                "detalle": "Componentes proveedores locales, logística interna"
+              },
+              {
+                "destino": "GM SLP local",
+                "pct": 8,
+                "detalle": "Componentes Equinox, logística ensamble"
+              },
+              {
+                "destino": "Proveedores Bajío",
+                "pct": 5,
+                "detalle": "Distribución GTO, QRO, AGS"
+              }
+            ]
+          }
+        },
+        "empresas": [
+          "BMW Group México",
+          "General Motors",
+          "ZF Group",
+          "Continental",
+          "Bosch",
+          "Faurecia"
+        ]
+      },
+      {
+        "rank": 2,
+        "nombre": "Minería (Fluorita, Zinc, Cobre)",
+        "demanda_2024": 680,
+        "demanda_2025": 720,
+        "demanda_2026": 760,
+        "crecimiento_pct": 5.6,
+        "export_internacional_pct": 70,
+        "export_local_pct": 30,
+        "impacto_camiones": "Transporte de minerales a granel, camiones tolva especializados",
+        "detalle_export": {
+          "internacional": {
+            "total_pct": 70,
+            "destinos": [
+              {
+                "destino": "Estados Unidos",
+                "pct": 50,
+                "detalle": "Fluorita (122K ton 2025), zinc, cobre a plantas procesamiento"
+              },
+              {
+                "destino": "Canadá",
+                "pct": 15,
+                "detalle": "Minerales a refinerías Ontario, Quebec"
+              },
+              {
+                "destino": "Otros",
+                "pct": 5,
+                "detalle": "Export menor"
+              }
+            ]
+          },
+          "local_regional": {
+            "total_pct": 30,
+            "destinos": [
+              {
+                "destino": "Procesamiento SLP",
+                "pct": 15,
+                "detalle": "Plantas procesamiento local"
+              },
+              {
+                "destino": "Fundiciones México",
+                "pct": 10,
+                "detalle": "Concentrados a fundiciones Coahuila, NL"
+              },
+              {
+                "destino": "Puertos exportación",
+                "pct": 5,
+                "detalle": "Transporte a Manzanillo, Lázaro Cárdenas"
+              }
+            ]
+          }
+        },
+        "empresas": [
+          "Industrias Peñoles",
+          "Minera Mexicana La Ciénega",
+          "Minera San Luis",
+          "Orbia (fluorita)"
+        ]
+      },
+      {
+        "rank": 3,
+        "nombre": "Agroindustria (Caña de Azúcar, Chile, Jitomate)",
+        "demanda_2024": 520,
+        "demanda_2025": 580,
+        "demanda_2026": 640,
+        "crecimiento_pct": 10.3,
+        "export_internacional_pct": 45,
+        "export_local_pct": 55,
+        "impacto_camiones": "Transporte refrigerado para productos agrícolas perecederos",
+        "detalle_export": {
+          "internacional": {
+            "total_pct": 45,
+            "destinos": [
+              {
+                "destino": "Estados Unidos",
+                "pct": 35,
+                "detalle": "Jitomate (15%), chile (12%), productos agrícolas (8%)"
+              },
+              {
+                "destino": "Canadá",
+                "pct": 8,
+                "detalle": "Productos agrícolas especialidad"
+              },
+              {
+                "destino": "Otros",
+                "pct": 2,
+                "detalle": "Export menor"
+              }
+            ]
+          },
+          "local_regional": {
+            "total_pct": 55,
+            "destinos": [
+              {
+                "destino": "Bajío regional",
+                "pct": 30,
+                "detalle": "Distribución GTO, QRO, AGS, Jalisco"
+              },
+              {
+                "destino": "Ciudad de México",
+                "pct": 18,
+                "detalle": "Mercados centrales CDMX"
+              },
+              {
+                "destino": "Norte México",
+                "pct": 5,
+                "detalle": "Monterrey, Saltillo"
+              },
+              {
+                "destino": "SLP local",
+                "pct": 2,
+                "detalle": "Consumo local San Luis Potosí"
+              }
+            ]
+          }
+        },
+        "empresas": [
+          "Ingenios azucareros",
+          "Empacadoras agrícolas",
+          "Productores hortalizas",
+          "Distribuidores agrícolas"
+        ]
+      },
+      {
+        "rank": 4,
+        "nombre": "Químicos y Fertilizantes",
+        "demanda_2024": 250,
+        "demanda_2025": 270,
+        "demanda_2026": 290,
+        "crecimiento_pct": 7.4,
+        "export_internacional_pct": 40,
+        "export_local_pct": 60,
+        "impacto_camiones": "Transporte de materiales peligrosos, requiere certificaciones",
+        "detalle_export": {
+          "internacional": {
+            "total_pct": 40,
+            "destinos": [
+              {
+                "destino": "Estados Unidos",
+                "pct": 30,
+                "detalle": "Químicos industriales, fertilizantes especialidad"
+              },
+              {
+                "destino": "América Latina",
+                "pct": 8,
+                "detalle": "Fertilizantes Guatemala, Honduras"
+              },
+              {
+                "destino": "Otros",
+                "pct": 2,
+                "detalle": "Export menor"
+              }
+            ]
+          },
+          "local_regional": {
+            "total_pct": 60,
+            "destinos": [
+              {
+                "destino": "Agricultura SLP",
+                "pct": 35,
+                "detalle": "Aplicación directa productores locales"
+              },
+              {
+                "destino": "Agricultura estados vecinos",
+                "pct": 20,
+                "detalle": "GTO, QRO, Zacatecas distribución"
+              },
+              {
+                "destino": "Industria SLP",
+                "pct": 5,
+                "detalle": "Químicos industriales manufactura"
+              }
+            ]
+          }
+        },
+        "empresas": [
+          "Fertilizantes del Centro",
+          "Químicos industriales SLP",
+          "Distribuidores químicos"
+        ]
+      },
+      {
+        "rank": 5,
+        "nombre": "Metales y Fundición",
+        "demanda_2024": 120,
+        "demanda_2025": 100,
+        "demanda_2026": 70,
+        "crecimiento_pct": -30.0,
+        "export_internacional_pct": 50,
+        "export_local_pct": 50,
+        "impacto_camiones": "Transporte de metales y productos fundidos, carga pesada",
+        "detalle_export": {
+          "internacional": {
+            "total_pct": 50,
+            "destinos": [
+              {
+                "destino": "Estados Unidos",
+                "pct": 40,
+                "detalle": "Productos fundidos, metales procesados"
+              },
+              {
+                "destino": "Canadá",
+                "pct": 10,
+                "detalle": "Metales especialidad"
+              }
+            ]
+          },
+          "local_regional": {
+            "total_pct": 50,
+            "destinos": [
+              {
+                "destino": "Automotriz SLP",
+                "pct": 30,
+                "detalle": "Componentes metálicos BMW, GM"
+              },
+              {
+                "destino": "Manufactura regional",
+                "pct": 15,
+                "detalle": "Componentes industriales Bajío"
+              },
+              {
+                "destino": "Construcción",
+                "pct": 5,
+                "detalle": "Metales construcción"
+              }
+            ]
+          }
+        },
+        "empresas": [
+          "Fundiciones SLP",
+          "Procesadores metales",
+          "Distribuidores metales"
+        ]
+      }
+    ]
+  },
+  "Querétaro": {
+    "total_2024": 2850,
+    "total_2025": 3100,
+    "total_2026": 3380,
+    "variacion_pct": 9.0,
+    "unidad": "miles_toneladas",
+    "actividades": [
+      {
+        "rank": 1,
+        "nombre": "Aeronáutica (Bombardier, Safran, Componentes)",
+        "demanda_2024": 1250,
+        "demanda_2025": 1380,
+        "demanda_2026": 1520,
+        "crecimiento_pct": 10.1,
+        "export_internacional_pct": 80,
+        "export_local_pct": 20,
+        "impacto_camiones": "Transporte de componentes de alta precisión, requiere manejo especializado",
+        "detalle_export": {
+          "internacional": {
+            "total_pct": 80,
+            "destinos": [
+              {
+                "destino": "Estados Unidos",
+                "pct": 50,
+                "detalle": "Componentes aeronáuticos Bombardier, Safran a plantas ensamble US"
+              },
+              {
+                "destino": "Canadá",
+                "pct": 20,
+                "detalle": "Bombardier plantas Montreal, Toronto"
+              },
+              {
+                "destino": "Europa",
+                "pct": 8,
+                "detalle": "Safran export Francia, componentes especialidad"
+              },
+              {
+                "destino": "Otros",
+                "pct": 2,
+                "detalle": "Export menor"
+              }
+            ]
+          },
+          "local_regional": {
+            "total_pct": 20,
+            "destinos": [
+              {
+                "destino": "Aeronáutica QRO local",
+                "pct": 12,
+                "detalle": "Bombardier QRO (8%), Safran (4%) logística interna"
+              },
+              {
+                "destino": "Proveedores aeroespaciales",
+                "pct": 6,
+                "detalle": "Distribución componentes Tier 1, Tier 2"
+              },
+              {
+                "destino": "Mantenimiento aeronáutico",
+                "pct": 2,
+                "detalle": "Repuestos, componentes mantenimiento"
+              }
+            ]
+          }
+        },
+        "empresas": [
+          "Bombardier Aerospace",
+          "Safran",
+          "Honeywell",
+          "Collins Aerospace",
+          "Triumph Group",
+          "Aernnova"
+        ]
+      },
+      {
+        "rank": 2,
+        "nombre": "Automotriz (Scania, Proveedores)",
+        "demanda_2024": 680,
+        "demanda_2025": 720,
+        "demanda_2026": 760,
+        "crecimiento_pct": 5.6,
+        "export_internacional_pct": 70,
+        "export_local_pct": 30,
+        "impacto_camiones": "Transporte de vehículos comerciales y componentes, camiones portavehículos",
+        "detalle_export": {
+          "internacional": {
+            "total_pct": 70,
+            "destinos": [
+              {
+                "destino": "Estados Unidos",
+                "pct": 45,
+                "detalle": "Scania camiones comerciales, autopartes"
+              },
+              {
+                "destino": "Canadá",
+                "pct": 15,
+                "detalle": "Vehículos comerciales, componentes"
+              },
+              {
+                "destino": "América Latina",
+                "pct": 8,
+                "detalle": "Scania export Brasil, Argentina"
+              },
+              {
+                "destino": "Europa",
+                "pct": 2,
+                "detalle": "Componentes especialidad"
+              }
+            ]
+          },
+          "local_regional": {
+            "total_pct": 30,
+            "destinos": [
+              {
+                "destino": "Scania QRO local",
+                "pct": 18,
+                "detalle": "Componentes proveedores, logística ensamble"
+              },
+              {
+                "destino": "Automotriz Bajío",
+                "pct": 10,
+                "detalle": "Distribución GTO, SLP, AGS"
+              },
+              {
+                "destino": "Mercado nacional",
+                "pct": 2,
+                "detalle": "Vehículos comerciales distribución México"
+              }
+            ]
+          }
+        },
+        "empresas": [
+          "Scania",
+          "ZF Group",
+          "Continental",
+          "Bosch",
+          "Magna International"
+        ]
+      },
+      {
+        "rank": 3,
+        "nombre": "Alimentos y Bebidas",
+        "demanda_2024": 420,
+        "demanda_2025": 450,
+        "demanda_2026": 480,
+        "crecimiento_pct": 6.7,
+        "export_internacional_pct": 35,
+        "export_local_pct": 65,
+        "impacto_camiones": "Transporte de alimentos procesados, camiones refrigerados y secos",
+        "detalle_export": {
+          "internacional": {
+            "total_pct": 35,
+            "destinos": [
+              {
+                "destino": "Estados Unidos",
+                "pct": 28,
+                "detalle": "Alimentos procesados, bebidas especialidad"
+              },
+              {
+                "destino": "Canadá",
+                "pct": 5,
+                "detalle": "Productos alimenticios"
+              },
+              {
+                "destino": "Otros",
+                "pct": 2,
+                "detalle": "Export menor"
+              }
+            ]
+          },
+          "local_regional": {
+            "total_pct": 65,
+            "destinos": [
+              {
+                "destino": "Bajío regional",
+                "pct": 40,
+                "detalle": "Distribución GTO, AGS, SLP, Jalisco"
+              },
+              {
+                "destino": "Ciudad de México",
+                "pct": 18,
+                "detalle": "Mercados centrales CDMX"
+              },
+              {
+                "destino": "Norte México",
+                "pct": 5,
+                "detalle": "Monterrey, Saltillo"
+              },
+              {
+                "destino": "QRO local",
+                "pct": 2,
+                "detalle": "Consumo local Querétaro"
+              }
+            ]
+          }
+        },
+        "empresas": [
+          "Grupo Lala",
+          "Bimbo",
+          "Coca-Cola FEMSA",
+          "PepsiCo",
+          "Empresas alimentarias regionales"
+        ]
+      },
+      {
+        "rank": 4,
+        "nombre": "Electrónica y Tecnología",
+        "demanda_2024": 280,
+        "demanda_2025": 310,
+        "demanda_2026": 340,
+        "crecimiento_pct": 9.7,
+        "export_internacional_pct": 75,
+        "export_local_pct": 25,
+        "impacto_camiones": "Transporte de componentes electrónicos sensibles, requiere manejo especializado",
+        "detalle_export": {
+          "internacional": {
+            "total_pct": 75,
+            "destinos": [
+              {
+                "destino": "Estados Unidos",
+                "pct": 60,
+                "detalle": "Componentes electrónicos, tecnología a plantas ensamble"
+              },
+              {
+                "destino": "Canadá",
+                "pct": 10,
+                "detalle": "Componentes tecnología"
+              },
+              {
+                "destino": "Asia",
+                "pct": 5,
+                "detalle": "Componentes especialidad export"
+              }
+            ]
+          },
+          "local_regional": {
+            "total_pct": 25,
+            "destinos": [
+              {
+                "destino": "Manufactura QRO",
+                "pct": 15,
+                "detalle": "Componentes para ensamble local"
+              },
+              {
+                "destino": "Tecnología Bajío",
+                "pct": 8,
+                "detalle": "Distribución componentes GTO, SLP"
+              },
+              {
+                "destino": "Mercado nacional",
+                "pct": 2,
+                "detalle": "Distribución tecnología México"
+              }
+            ]
+          }
+        },
+        "empresas": [
+          "Flextronics",
+          "Jabil",
+          "Sanmina",
+          "Empresas tecnología QRO"
+        ]
+      },
+      {
+        "rank": 5,
+        "nombre": "Maquinaria y Equipos Industriales",
+        "demanda_2024": 220,
+        "demanda_2025": 240,
+        "demanda_2026": 280,
+        "crecimiento_pct": 16.7,
+        "export_internacional_pct": 55,
+        "export_local_pct": 45,
+        "impacto_camiones": "Transporte de maquinaria industrial, plataformas y grúas especializadas",
+        "detalle_export": {
+          "internacional": {
+            "total_pct": 55,
+            "destinos": [
+              {
+                "destino": "Estados Unidos",
+                "pct": 40,
+                "detalle": "Maquinaria industrial, equipos manufactura"
+              },
+              {
+                "destino": "Canadá",
+                "pct": 10,
+                "detalle": "Equipos industriales"
+              },
+              {
+                "destino": "América Latina",
+                "pct": 5,
+                "detalle": "Maquinaria export"
+              }
+            ]
+          },
+          "local_regional": {
+            "total_pct": 45,
+            "destinos": [
+              {
+                "destino": "Manufactura QRO",
+                "pct": 25,
+                "detalle": "Equipos para aeronáutica, automotriz local"
+              },
+              {
+                "destino": "Industria Bajío",
+                "pct": 15,
+                "detalle": "Distribución equipos GTO, SLP, AGS"
+              },
+              {
+                "destino": "Mantenimiento industrial",
+                "pct": 5,
+                "detalle": "Repuestos, equipos mantenimiento"
+              }
+            ]
+          }
+        },
+        "empresas": [
+          "Proveedores maquinaria industrial",
+          "Fabricantes equipos",
+          "Distribuidores maquinaria"
+        ]
+      }
+    ]
+  }
+}
